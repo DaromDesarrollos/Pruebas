@@ -9,7 +9,7 @@
   </section>
   
   <!-- Main content -->
-  <section class="content">
+  <section class="content" style="background:#FF0;">
     <div class="row">
       <div class="col-lg-12 col-xs-12">
         <div class="alert alert-info alert-dismissable">
@@ -22,7 +22,7 @@
     </div>
    
    	<?php //include 'empresa.php';?>   
-	<div style=" display: flex;  justify-content: center;  align-items: center;  margin-top: 40px; ">
+	<div style=" display: flex;  justify-content: center;  align-items: center;  margin-top: 40px; background:#0F0;">
 	
     <table>
     	<tr>
