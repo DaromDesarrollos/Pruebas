@@ -162,6 +162,7 @@ include 'config/TNS.php';
 		
 		}*/
 		//echo "<meta http-equiv='refresh' content='0; url=index.php?alert=1'>";
+		if(isset($_GET['modulo'])) {
 
 		if($_GET['modulo'] == 'Inicio') {
 		
@@ -272,6 +273,9 @@ include 'config/TNS.php';
 
 				
 		//--------------------------------------------------	
+		}
+		}else{
+			include "modulos/start/view.php";
 		}
 
 		?>
