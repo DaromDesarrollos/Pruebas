@@ -1,8 +1,8 @@
 <?php
 session_start();
-if(!isset($_SESSION['usuario'])){
-	header("Location: Login/login.php");
-}
+//if(!isset($_SESSION['usuario'])){
+//	header("Location: Login/login.php");
+//}
 include 'config/TNS.php'; 
 ?>
 
