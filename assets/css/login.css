@@ -1,0 +1,50 @@
+ body {
+			/*background:#00F/*azul*/
+            background:url(../../img/beige.png);
+			/*padding-top: 150px;*/
+		}
+
+.header { background:#999/*gris*/;
+		position:relative;
+		}
+			
+.navbar-template {
+                padding: 30px 15px;
+				font-family: 'Fresca', sans-serif;
+        }
+
+.container { 
+				/*background:#FFF;/*Blanco*/
+				/*background:url(../images/fondo_caneros01.jpg);*/
+				background:url(../../img/Textura_roja.jpg);
+					background-position: center center;
+					background-repeat: no-repeat;
+					/*background-attachment: fixed;*/
+					background-size: cover;
+					-moz-background-size: cover;
+					-o-background-size: cover;
+				border:5px; 
+	 			border-radius:15px; 
+	 			border:solid;
+				/*border-color:#006a72;*/
+				border-color:#000;
+				width:80%;
+				height: 400px;
+				position:relative;
+				/*margin:auto;*/
+				margin-top:80px;
+				font-family: 'Raleway', sans-serif;
+				color:#FFF;
+			}
+			
+.container-nav {
+				/*background:#006a72;/*Verde oscuro*/
+				padding-left:100px;
+			/*border-radius:10px;
+			height:10px;*/}
+
+.container-nav a {color:#FFF;}
+
+.form-horizontal{ color: #fff;}
+
+#btn_login {width:150px;}
