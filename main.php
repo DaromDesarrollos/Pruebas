@@ -147,6 +147,15 @@ include 'config/TNS.php';
 		<li class="">
       		<a href="main.php?modulo=Gastos"><i class="glyphicon glyphicon-usd"></i> Gastos </a>
       	</li>
+        <li class="">
+      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items 1</a>
+      	</li>
+        <li class="">
+      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items 2</a>
+      	</li>
+        <li class="">
+      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items 3</a>
+      	</li>
 	</ul>
 
 			<!-------------------------- /SideBar-Menu ------------------------>
