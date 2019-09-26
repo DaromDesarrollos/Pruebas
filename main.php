@@ -42,7 +42,7 @@ include 'config/TNS.php';
         <!-- Logo -->
         <a href="main.php?module=inicio" class="logo">
           <img style="margin-top:-15px;margin-right:5px" src="img/icon.png" width="24"  alt="Logo"> 
-          <span style="font-size:20px">Costos</span>
+          <span style="font-size:20px">Costos Y Materiales</span>
         </a>
 
         <nav class="navbar navbar-static-top" role="navigation">
