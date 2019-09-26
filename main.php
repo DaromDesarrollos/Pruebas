@@ -70,7 +70,7 @@ include 'config/TNS.php';
 					<table style="text-align:center; width:100%; margin-top:10px;">
                         <tr>
                     		<td >
-                            	Bienvenido <strong><?php echo $_SESSION['usuario']; ?></strong>
+                            	Bienvenido <strong><?php //echo $_SESSION['usuario']; ?></strong>
                     		</td>
                     	</tr>
                     </table>
@@ -118,7 +118,7 @@ include 'config/TNS.php';
 		}*/
 		?>
 		<li class="">
-      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items </a>
+      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items Original </a>
       	</li>
 
 		<li class="">
