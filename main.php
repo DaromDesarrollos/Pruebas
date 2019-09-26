@@ -110,14 +110,29 @@ include 'config/TNS.php';
 	  	</li>
 		
 		<?php
-		if($_SESSION['permisos'] == 10){
+		/*if($_SESSION['permisos'] == 10){
 		echo " 
     	<li class=''>
       		<a href='main.php?modulo=Clientes'><i class='glyphicon glyphicon-user'></i> Clientes </a>
       	</li>";
-		}
+		}*/
 		?>
 		<li class="">
+      		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items </a>
+      	</li>
+
+		<li class="">
+      		<a href="main.php?modulo=Rubros"><i class="glyphicon glyphicon-briefcase"></i> Tipo de Gasto </a>
+      	</li>
+
+		<li class="">
+      		<a href="main.php?modulo=Presupuestos"><i class="glyphicon glyphicon-list-alt"></i> Presupuestos </a>
+      	</li>
+
+		<li class="">
+      		<a href="main.php?modulo=Gastos"><i class="glyphicon glyphicon-usd"></i> Gastos </a>
+      	</li>
+        <li class="">
       		<a href="main.php?modulo=Items"><i class="	glyphicon glyphicon-list-alt"></i> Items </a>
       	</li>
 
