@@ -15,7 +15,7 @@
         <div class="alert alert-info alert-dismissable">
           <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
           <p style="font-size:15px">
-            <i class="icon fa fa-user"></i> Bienvenid@ <strong><?php //echo $_SESSION['usuario']; ?></strong> al Sistema de Control de Costos.
+            <i class="icon fa fa-user"></i> Bienvenido a las Pruebas de Git</strong> al Sistema de Control de Costos.
           </p>        
         </div>
       </div>  
